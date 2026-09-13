@@ -4,7 +4,7 @@ metadata:
   name: require_annotations_test
 policies:
   - ./require_annotations.yaml
-  - ./require_annotations_test_new.yaml
+  - ./require_annotations_new.yaml
 resources:
   - ./pod_with_annotation.yaml
   - ./pod_without_annotation.yaml
